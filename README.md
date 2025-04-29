@@ -35,6 +35,7 @@ Email: shipilov.siu@phystech.edu
 <h1 align="left">
     <img src="schems and design/Finish foto.png" alt="Main Screen">
 </h1>
+
 **Функциональные возможности:**
 - Автоматическое измерение массы содержимого
 - Передача данных в облачный сервис
